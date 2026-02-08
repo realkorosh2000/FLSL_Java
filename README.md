@@ -10,6 +10,6 @@ do not use: 0.8-Alpha
 the 1.0 Beta, latest release with: fileio, FGui, utils Array2D/3D, utils stringScanner and stringProcessor
 
 ### Chengelog
-0.8 Alpha: first Alpha Release
-0.9 Alpha: fixed Resource leaks
-1.0 Beta: added Gui library and keyIO
+----- 0.8 Alpha: first Alpha Release -----
+----- 0.9 Alpha: fixed Resource leaks -----
+----- 1.0 Beta: added Gui library and keyIO -----
