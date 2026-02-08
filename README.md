@@ -1,15 +1,20 @@
-# FLSL
-an open-source java library with anything a java developer needs!
-fileio operations, Awt based Gui, Array2D, Array3D, etc...
+# FLSL Java Library
+FLSL is an open-source and Java Library any Java Developers must try!
+Provides essential Java utilities: file I/O operations, AWT-based GUI framework (FGui), 2D/3D array structures, encoding tools (Hex/Bin/Base64), and string processing libraries.
 
-## download
-i recommended to use latest version and do not use version below for fileio it has Resource leaks bug [download latest version](https://github.com/realkorosh2000/FLSL_Java/releases/download/v1.0_Beta/FLSL_Beta-1.0.jar)
-do not use: 0.8-Alpha
-## News / Updates
-### latest release
-the 1.0 Beta, latest release with: fileio, FGui, utils Array2D/3D, utils stringScanner and stringProcessor
+## Download
+**Latest Version (v1.0 Beta):** [Download latest FLSL Version](https://github.com/realkorosh2000/FLSL_Java/releases/download/v1.1_Release/FLSL_Release-1.1.jar)
 
-### Chengelog
------ 0.8 Alpha: first Alpha Release -----
------ 0.9 Alpha: fixed Resource leaks -----
------ 1.0 Beta: added Gui library and keyIO -----
+**Important:** Version 0.8-Alpha has resource leaks in file I/O operations. Use v0.9 or higher for production.
+
+[View All Releases & Changelog](https://github.com/realkorosh2000/FLSL_Java/releases)
+
+
+## Features
+
+- **File Operations**: Read/write files with proper resource management
+- **Data Structures**: Array2D & Array3D for multidimensional data
+- **String Processing**: StringProcessor & StringScanner utilities
+- **GUI Framework**: AWT-based FGui for desktop interfaces
+- **Encoding/Decoding**: Hex, Binary, and Base64 codec support
+- **Keyboard Input**: KeyIO utilities for user input handling
